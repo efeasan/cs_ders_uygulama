@@ -1,0 +1,14 @@
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.AssemblyInfoInputs.cache
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.AssemblyInfo.cs
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.csproj.CoreCompileInputs.cache
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\bin\Debug\net10.0\CSprojemdersyeni.exe
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\bin\Debug\net10.0\CSprojemdersyeni.deps.json
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\bin\Debug\net10.0\CSprojemdersyeni.runtimeconfig.json
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\bin\Debug\net10.0\CSprojemdersyeni.dll
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\bin\Debug\net10.0\CSprojemdersyeni.pdb
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.dll
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\refint\CSprojemdersyeni.dll
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.pdb
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\CSprojemdersyeni.genruntimeconfig.cache
+C:\Users\efe\Documents\GitHub\cs_ders_uygulama\CSprojemdersyeni\obj\Debug\net10.0\ref\CSprojemdersyeni.dll
